@@ -26,7 +26,7 @@ Database
 * eGain is a leader in customer relationship products and solutions. My work was to provide tools and systems that gives support for the company's software base. (http://egain.com)
 
 **Zepply**, March 2010 - Ago 2010 * *Co-founder/Programer*
-* Zepply is a fun and easy way for De Anza College students to share their used books, electronics and anything else you can imagine. Build by me and my friend Garindra Prahandono.
+* Zepply is a fun and easy way for De Anza College students to share their used books, electronics and anything else you can imagine. Build by me and my friend Garindra Prahandono. (http://zepply.com)
 
 **xchema**, March 2006 - December 2009 * *Co-founder and Director*
 * Control development process and delivery of projects. I leave the company after decide move to US. (http://xchema.com.br)
